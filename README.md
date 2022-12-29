@@ -1,6 +1,5 @@
 <div align="center">
     <h1><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg"width="30px"><br>Banned BetterDiscord Plugins</h1>
-    <img width="400" src="https://i.giphy.com/media/7YCA4XbA0ArQuWEfqJ/giphy.gif">
     <h3>A collection of BetterDiscord plugins which were unjustly removed or unjustly never added to the official plugins repo</h3>
     <a href="https://github.com/mov-ebx">
         <img src="https://gpvc.arturio.dev/mov-ebx">
