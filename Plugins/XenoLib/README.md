@@ -18,5 +18,5 @@ This version of XenoLib is potentially downloaded from an alternative source fro
 
 ### Other links
 
-- [https://discord.gg/NYvWdN5](Author's Discord server)
-- [https://github.com/1Lighty/BetterDiscordPlugins](Original repo)
+- [Author's Discord server](https://discord.gg/NYvWdN5/)
+- [Original repo](https://github.com/1Lighty/BetterDiscordPlugins/)

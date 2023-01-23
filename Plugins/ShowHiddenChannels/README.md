@@ -1,6 +1,6 @@
 # ShowHiddenChannels
 
-[You can download this plugin from it's official repo]([MessageLoggerV2.plugin.js?raw=true](https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js))
+[You can download this plugin from it's official repo)[[MessageLoggerV2.plugin.js?raw=true)[https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js))
 
 ## Support the original author
 
@@ -10,4 +10,4 @@
 
 ### Other links
 
-- [https://github.com/JustOptimize/return-ShowHiddenChannels](Original repo)
+- [Original repo](https://github.com/JustOptimize/return-ShowHiddenChannels/)
